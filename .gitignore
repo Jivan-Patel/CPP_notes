@@ -1,4 +1,5 @@
 .vscode
 clean.cpp
 *.exe
+*.txt
 00classNotes
