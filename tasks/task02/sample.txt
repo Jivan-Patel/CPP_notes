@@ -1,0 +1,6 @@
+3 is Fibonacii
+121 is Not Fibonacii
+5 is Fibonacii
+8 is Fibonacii
+5 is Fibonacii
+5 is Fibonacii

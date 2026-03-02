@@ -1,0 +1,8 @@
+Product id: 1
+Product name: Mobile
+Product price: 45000
+
+Product id: 2
+Product name: Car
+Product price: 500000
+
